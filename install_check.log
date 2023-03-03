@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin sanjanas-air.wireless-1x.unc.edu 21.5.0 Darwin Kernel Version 21.5.0: Tue Apr 26 20:57:23 PDT 2022; root:xnu-8020.121.3~2/RELEASE_ARM64_T8110 arm64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.33.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Apr 19 2022 21:03:18)
+CURL:	[/Users/sanjanasundhar/opt/anaconda3/bin/curl] curl 7.84.0 (x86_64-apple-darwin13.4.0) libcurl/7.84.0 OpenSSL/1.1.1q zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/Users/sanjanasundhar/.nvm/versions/node/v18.14.2/bin/node] v18.14.2
